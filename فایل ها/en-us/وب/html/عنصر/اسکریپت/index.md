@@ -18,11 +18,7 @@ browser-compat: html.elements.script
 
 {{HTMLRef}}
 
-The **`<script>`** [HTML](/en-US/docs/Web/HTML) element is used to embed executable code or data; this is typically used to embed or refer to JavaScript code. The `<script>` element can also be used with other languages, such as [WebGL](/en-US/docs/Web/API/WebGL_API)'s GLSL shader programming language and [JSON](/en-US/docs/Glossary/JSON).
-
-<table class="properties">
-  <tbody>
-    <tr>
+The **``** [HTML](/en-US/docs/Web/HTML) element is used to embed executable code or data; this is typically used to embed or refer to JavaScript code. The `<script>` element can also be used with other languages, such as [WebGL](/en-US/docs/Web/API/WebGL_API)'s GLSL shader programming 
       <th scope="row">
         <a href="/en-US/docs/Web/Guide/HTML/Content_categories"
           >Content categories</a
